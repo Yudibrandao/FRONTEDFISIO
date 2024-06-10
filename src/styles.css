@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+
+}
+
+*::-webkit-scrollbar {
+    display: none;
+  }
+li {
+    list-style: none;
+  }
+  a {
+    text-decoration: none;
+  }
+  #root{
+    width: 100vw;
+    height: 100vh;
+    overflow: scroll;
+    overflow-x: hidden; 
+    background-color: rgba(21, 22, 28, 0.907);
+   
+  }

@@ -1,0 +1,25 @@
+.custom-label {
+    font-weight:bolder;
+    color: blue;
+    font-style: oblique;
+  }
+  
+  .custom-input-container {
+    margin-bottom: 20px;
+  }
+  
+  .custom-input {
+    width: 100%; /* O ajusta el ancho según tu preferencia */
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 30px;
+    transition: border-color 0.3s;
+    font-style: oblique;
+    
+  }
+  
+  .custom-input:focus {
+    border-color: #000000;
+  }
+  

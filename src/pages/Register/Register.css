@@ -1,0 +1,17 @@
+.register_design{
+    padding-top: 200px;
+    color: aliceblue;
+}
+
+.button_register_design{
+   max-width: 150px;
+   margin: 0 auto;
+   padding: 5px;
+   border: 1px solid black;
+   box-shadow: 5px 5px 5px 5px rgba(240, 248, 255, 0.26);
+   background-color: lightslategray;
+   border-radius: 15px;
+   text-align: center;
+   font-size: 1.2rem;
+   margin-top: 10px;
+}

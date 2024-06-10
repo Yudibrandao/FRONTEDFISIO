@@ -1,0 +1,56 @@
+.profileDesign{
+    padding: auto;
+}
+
+.card_design{
+    background-color:rgb(48, 52, 56);
+ 
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 1.1rem;
+    color: aliceblue;
+    box-shadow: 2px 2px 3px 3px rgb(94, 201, 255);
+}
+
+.button_create_design{
+    border: 0px;
+    background-color: rgba(240, 248, 255, 0);
+    font-size: 1.3rem; 
+
+}
+
+.button_create_design:hover{
+    background-color: rgba(240, 248, 255, 0);
+    font-size: 1.4rem;
+}
+
+.col_button_create{
+    background-color:rgb(48, 52, 56);
+    margin-top: 150px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 1.1rem;
+    color: aliceblue;
+    box-shadow: 2px 2px 3px 3px rgb(245, 230, 94);
+}
+
+.botones{
+
+    background-color: #3e857c; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 50px; 
+    width: 85px;
+    height: 45px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+     transition: box-shadow 0.3s, transform 0.3s;
+}

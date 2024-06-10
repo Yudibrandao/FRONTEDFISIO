@@ -1,0 +1,31 @@
+.headerDesing {
+    display: flex;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: rgba(37, 135, 233, 0);
+    
+  
+}
+
+.headerDesing:hover{
+    background-color: rgba(83, 168, 248, 0.752);
+
+}
+.p_color{
+    color: rgba(255, 255, 255, 0.977);
+    font-style: oblique;
+}
+
+.nav_link_home {
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 990px) {
+
+    .nav_link_log {
+        margin-left: 60vw;
+    }
+}
+
+

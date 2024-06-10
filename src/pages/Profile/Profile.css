@@ -1,0 +1,14 @@
+.profileDesign{
+    padding: auto;
+}
+
+.card_design{
+    background-color:lightslategray;
+    margin-top: 150px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 1.1rem;
+    color: aliceblue;
+    box-shadow: 2px 2px 3px 3px aliceblue;
+}
